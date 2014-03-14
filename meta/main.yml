@@ -2,8 +2,9 @@
 
 galaxy_info:
   author: pjan vandaele
-  description: Install cron
-  min_ansible_version: 1.3
+  company: Ansibles
+  description: Installs the cron package and starts the crond service
+  min_ansible_version: 1.4
   license: MIT
   platforms:
   - name: Ubuntu

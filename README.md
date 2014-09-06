@@ -1,4 +1,4 @@
-## Ansibles - cron [![Build Status](https://travis-ci.org/Ansibles/cron.png)](https://travis-ci.org/Ansibles/cron)
+## ANXS - cron [![Build Status](https://travis-ci.org/ANXS/cron.png)](https://travis-ci.org/ANXS/cron)
 
 Ansible role which installs the cron package and starts the crond service.
 
@@ -20,4 +20,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ansibles/cron/issues)!
+Are [welcome](https://github.com/ANXS/cron/issues)!
